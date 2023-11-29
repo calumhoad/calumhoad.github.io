@@ -12,7 +12,7 @@ menu_settings:
       url: '/'
     - title: 'Research'
       url: '/research/'
-    - title: 'Photography\n+\nIllustration'
+    - title: >'Photography\n+\nIllustration'
       url: '/blog/'
     - title: 'Illustration'
       url: '/about'
