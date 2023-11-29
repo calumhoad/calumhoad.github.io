@@ -13,7 +13,7 @@ menu_settings:
     - title: 'Photography + Illustration'
       url: '/blog/'
     - title: 'Drones'
-      url: '/drones'
+      url: '/drones/'
     - title: 'Outreach + Teaching'
       url: '/outreach'
     - title: 'Contact'
