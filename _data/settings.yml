@@ -8,24 +8,16 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Home'
-      url: '/'
     - title: 'Research'
       url: '/research/'
-    - title: >
-        Photography
-        and
-        Illustration
-  
+    - title: 'Photography + Illustration'
       url: '/blog/'
     - title: 'Illustration'
       url: '/about'
     - title: 'Drones'
       url: '/drones'
-    - title: 'Outreach'
+    - title: 'Outreach + Teaching'
       url: '/outreach'
-    - title: 'Teaching'
-      url: '/teaching'
     - title: 'Contact'
       url: '/contact'
 
