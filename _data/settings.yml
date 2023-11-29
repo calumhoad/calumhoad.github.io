@@ -13,9 +13,10 @@ menu_settings:
     - title: 'Research'
       url: '/research/'
     - title: >
-        'Photography\\n
-        and\\n
-        Illustration'
+        Photography
+        and
+        Illustration
+  
       url: '/blog/'
     - title: 'Illustration'
       url: '/about'
