@@ -12,8 +12,6 @@ menu_settings:
       url: '/research/'
     - title: 'Photography + Illustration'
       url: '/blog/'
-    - title: 'Illustration'
-      url: '/about'
     - title: 'Drones'
       url: '/drones'
     - title: 'Outreach + Teaching'
