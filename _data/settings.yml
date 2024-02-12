@@ -9,13 +9,13 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'Research'
-      url: '/research.md'
+      url: '/research'
     - title: 'Visual'
       url: '/blog/'
     - title: 'Drones'
       url: '/drone/'
     - title: 'Teaching'
-      url: '/teaching-and-outreach.md'
+      url: '/teaching-and-outreach'
     - title: 'Outside'
       url: '/outside/'
     - title: 'Contact'
