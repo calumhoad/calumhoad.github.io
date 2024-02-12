@@ -1,0 +1,48 @@
+---
+layout: default
+title: Calum Hoad
+description: Visual communicator
+featured_image: /images/social.jpg
+---
+
+<section class="intro">
+
+	<div class="wrap">
+
+		<h1>Visual communicator</h1>
+		<p>I've been a keen on both photography and graphic communication from a young age. With a degree in Geography and time working as a cartographer (GIS technician) in industry, I possess a 
+      broad and versatile skillset for visual communication and storytelling. Please follow the links below to see my photographic and grapghic work.</p>
+
+	</div>
+
+</section>
+
+<section class="portfolio">
+
+	<div class="content-wrap portfolio-wrap">
+
+		{% for project in site.projects reversed %}
+
+		<div class="portfolio-item">
+
+			<a class="portfolio-item__link" href="{{ project.url | relative_url }}">
+
+				<div class="portfolio-item__image">
+					<img src="images/greenland-drone.jpg" alt="{{ project.title }}">
+				</div>
+
+				<div class="portfolio-item__content">
+					<div class="portfolio-item__info">
+						<h2 class="portfolio-item__title">Greenland fieldwork</h2>
+						<p class="portfolio-item__subtitle"></p>
+					</div>
+				</div>
+
+			</a>
+
+		</div>
+
+		{% endfor %}
+	</div>
+	
+</section>
