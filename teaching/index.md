@@ -5,6 +5,8 @@ description: Experience in teaching and science outreach
 featured_image: '/images/greenland-drone.jpg'
 ---
 
+## Teaching
+
 This is a teaching md
 
 ![](/images/greenland-drone.jpg)
