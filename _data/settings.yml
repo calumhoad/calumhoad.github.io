@@ -15,7 +15,7 @@ menu_settings:
     - title: 'Drones'
       url: '/drone/'
     - title: 'Teaching'
-      url: '/teaching/index.md'
+      url: '/teaching/teaching.md'
     - title: 'Outside'
       url: '/outside/'
     - title: 'Contact'
