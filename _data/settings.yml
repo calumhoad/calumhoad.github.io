@@ -15,7 +15,7 @@ menu_settings:
     - title: 'Drones'
       url: '/drone/'
     - title: 'Teaching'
-      url: '/_posts/teaching-and-outreach.md'
+      url: '/teaching-and-outreach.md'
     - title: 'Outside'
       url: '/outside/'
     - title: 'Contact'
