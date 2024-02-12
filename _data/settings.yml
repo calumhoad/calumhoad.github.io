@@ -13,7 +13,7 @@ menu_settings:
     - title: 'Visual'
       url: '/blog/'
     - title: 'Drones'
-      url: '/drone/'
+      url: '/drone'
     - title: 'Teaching'
       url: '/teaching-and-outreach'
     - title: 'Outside'
