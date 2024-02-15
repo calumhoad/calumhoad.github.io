@@ -15,8 +15,8 @@ I've conducted UAV surveys to collect data for MSc student dissertations and hav
 I hold significant experience in the use of drones for research in remote environments, with both my Canadian and Greenlandic fieldwork taking place ~8km from the nearest vehicular access in rugged tundra environments. Research at both locations used heavy and technically sensitive equipment, for which I successfully planned logistics - with no damage to equipment. In both instances, I flew the drones at regular intervals over a prolonged (4 weeks Greenland, 8 weeks Canada) campaign, interpreting complex weather forecasts in order to safely operate in harsh climates.
 
 ### Qualifications
-* **UK:**[General Visual-Line-of-Sight Certificate (GVC)](https://www.caa.co.uk/drones/digitising-specific-category-operations-disco-project/pilot-competence/)
-* **UK:**[A2 Certificate of Competency (A2 CofC)](https://www.caa.co.uk/drones/digitising-specific-category-operations-disco-project/pilot-competence/)
-* **Canada:**[Pilot Certificate - Basic Operations](https://tc.canada.ca/en/aviation/drone-safety/learn-rules-you-fly-your-drone/find-your-category-drone-operation#basic)
+* **UK:** [General Visual-Line-of-Sight Certificate (GVC)](https://www.caa.co.uk/drones/digitising-specific-category-operations-disco-project/pilot-competence/)
+* **UK:** [A2 Certificate of Competency (A2 CofC)](https://www.caa.co.uk/drones/digitising-specific-category-operations-disco-project/pilot-competence/)
+* **Canada:** [Pilot Certificate - Basic Operations](https://tc.canada.ca/en/aviation/drone-safety/learn-rules-you-fly-your-drone/find-your-category-drone-operation#basic)
 
 ![](/images/yukon-drone-1.jpg)
