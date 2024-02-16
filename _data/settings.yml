@@ -16,6 +16,8 @@ menu_settings:
       url: '/drone'
     - title: 'Teaching'
       url: '/teaching-and-outreach'
+    - title: 'Outreach'
+      url: '/teaching-and-outreach'
     - title: 'Outside'
       url: '/outside'
     - title: 'Contact'
