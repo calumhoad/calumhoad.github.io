@@ -1,11 +1,9 @@
 ---
-title: 'Teaching and outreach'
+title: 'Teaching'
 date: 2024-02-12 00:00:00
 description: Experience in teaching and science outreach
 featured_image: '/images/greenland-drone.jpg'
 ---
-
-## Teaching
 
 I enjoy teaching and have experience teaching on a broad variety class- and field-based courses at undergraduate, masters and PhD level. 
 
