@@ -20,8 +20,8 @@ menu_settings:
       url: '/outreach'
     - title: 'Outside'
       url: '/outside'
-    - title: 'Contact'
-      url: '/contact'
+#    - title: 'Contact'
+#     url: '/contact'
 
 footer_settings:
   logo_image: 
