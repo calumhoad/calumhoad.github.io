@@ -7,7 +7,7 @@ featured_image: '/images/greenland-drone.jpg'
 
 ## Outreach
 
-I'm passionate about science outreach and have successfully applied for funding, lead the development of, and delivered outreach projects throughout my PhD.
+I'm passionate about science outreach and have successfully applied for funding, lead the development of, and delivered outreach projects throughout my PhD. In May 2024 I was awarded the UK Space Agency prize for Best Outreach.
 
 ### Outreach experience:
 * Co-founder of the [SatSchool](https://satschool-outreach.github.io/) project, successfully applying for £7k funding from NERC to initiate the project and co-managing initial project development.
