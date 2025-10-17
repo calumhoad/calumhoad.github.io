@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Calum Hoad
+  site_title: Calum Hoad, PhD
   favicon_image: /images/favicon-2.png
 
 header_settings:
@@ -26,7 +26,7 @@ menu_settings:
 footer_settings:
   logo_image: 
   logo_width: 200
-  footer_tagline: Calum Hoad, PhD Researcher in Arctic vegetation change | Earth Observation | GIS | Cartography | Mountain Sport Enthusiast
+  footer_tagline: Calum Hoad, PhD in Arctic vegetation change | Earth Observation | GIS | Cartography | Mountain Sport Enthusiast
 
 grid_settings:
   overlay_opacity: 0.8
