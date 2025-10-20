@@ -5,11 +5,9 @@ description: Experience in skilled use of drones
 featured_image: '/images/greenland-drone.jpg'
 ---
 
-![](/images/greenland-drone.jpg)
-
 <section
   style="width:100vw; margin-left:calc(50% - 50vw); margin-bottom:2rem;
-         height:40vh; /* set your desired height: e.g., 300px or 50vh */
+         height:60vh; /* set your desired height: e.g., 300px or 50vh */
          overflow:hidden;"
 >
   <img
