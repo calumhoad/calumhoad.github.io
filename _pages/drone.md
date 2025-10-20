@@ -11,10 +11,10 @@ featured_image: '/images/greenland-drone.jpg'
   body { margin-top: 0; }
 </style>
 <section
-  style="width:100vw; margin-left:calc(50% - 50vw); margin-bottom:2rem;
-         height:60vh; /* set your desired height: e.g., 300px or 50vh */
-         overflow:hidden;"
->
+  style="width:100vw; margin-left:calc(50% - 50vw);
+         margin-top:-2rem;  /* adjust: try -2rem or -30px depending on your theme */
+         margin-bottom:2rem;
+         height:60vh; overflow:hidden;">
   <img
     src="/images/greenland-drone.jpg"
     alt="Remote sensing ecologist"
