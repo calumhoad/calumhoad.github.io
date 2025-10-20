@@ -12,7 +12,7 @@ featured_image: '/images/greenland-drone.jpg'
 </style>
 <section
   style="width:100vw; margin-left:calc(50% - 50vw);
-         margin-top:-2rem;  /* adjust: try -2rem or -30px depending on your theme */
+         margin-top:-1rem;  /* adjust: try -2rem or -30px depending on your theme */
          margin-bottom:2rem;
          height:60vh; overflow:hidden;">
   <img
