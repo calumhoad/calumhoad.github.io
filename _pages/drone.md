@@ -7,6 +7,19 @@ featured_image: '/images/greenland-drone.jpg'
 
 ![](/images/greenland-drone.jpg)
 
+<section
+  style="width:100vw; margin-left:calc(50% - 50vw); margin-bottom:2rem;
+         height:40vh; /* set your desired height: e.g., 300px or 50vh */
+         overflow:hidden;"
+>
+  <img
+    src="/images/greenland-drone.jpg"
+    alt="Remote sensing ecologist"
+    style="display:block; width:100%; height:100%; object-fit:cover; object-position:center;"
+  >
+</section>
+
+
 ## Drone (UAV) operations
 I've used drones extensively in my PhD research. I've conducted fieldwork both in the sub-Arctic Yukon (2022) and in Arctic Greenland (2023) with a variety of platforms and sensors. I hold a GVC and A2CofC, in addition to the Canadian certificate for basic drone operations. I've successfully applied for the Special Flight Operations Certificate for working in Canada and has led conversations with the Danish Civil Aviation Authority in order to obtain the permits necessary to work legally in Greenland.
 
