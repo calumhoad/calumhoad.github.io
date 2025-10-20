@@ -4,7 +4,17 @@ date: 2024-02-12 00:00:00
 description: Experience in teaching and science outreach
 featured_image: '/images/teaching-fife.jpg'
 ---
-![](/images/teaching-fife.jpg)
+<section
+  style="width:100vw; margin-left:calc(50% - 50vw);
+         margin-top:-1rem;  /* adjust: try -2rem or -30px depending on your theme */
+         margin-bottom:2rem;
+         height:60vh; overflow:hidden;">
+  <img
+    src="/images/teaching-fife.jpg"
+    alt="Remote sensing ecologist"
+    style="display:block; width:100%; height:100%; object-fit:cover; object-position:center;"
+  >
+</section>
 
 ## Teaching
 Teaching has been a central and enjoyable component of my PhD. I have taught on a variety of courses throughout my time at the University of Edinburgh, focusing on GIS, Earth Observation and Remote Sensing, Science Outreach and Communication, and practical skills in Ecology and Physical Geography. Courses have been both class and field-based - I am comfortable teaching in both environments with a range of methods and technologies. I am currently working towards the Edinburgh Teaching Award, both to reflect on my teaching practice and to gain official recognition of my experience to date. For further details of the courses I have taught on, please see below.
