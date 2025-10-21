@@ -4,13 +4,14 @@ date: 2024-02-12 00:00:00
 description: What is my research?
 featured_image: '/images/greenland-drone.jpg'
 ---
-Insert a link to Environmental Research Letters here.
 
-My PhD thesis is available here: ...
+
+[My PhD thesis is available here](https://era.ed.ac.uk/handle/1842/44067)
 
 I am a fourth-year PhD student on SENSE CDT, using optical data from satellites and drones to better understand Arctic vegetation change. In particular, I am interested in the sensitivity of Arctic greening analyses to changing abiotic phenomena and how this sensitivity may scale with spatial and temporal resolution. To date, I have focussed my PhD on the impact late-lying snow patches have on the vegetation metrics central to Arctic greening analyses. My research has included two field seasons, in the Canadian sub-Arctic Yukon (2022, 10 weeks) and the Arctic tundra of Western Greenland (2023, 5 weeks). 
 
 ### Changing snow persistence in tundra landscapes affects the detection of vegetation change with satellite imagery
+Published as an [article in _Environmental Research Letters_.](https://iopscience.iop.org/article/10.1088/1748-9326/adacff)
 
 ### The amount of vegetation within a satellite pixel can affect our abiltiy to detect whether the vegetation is changing
 
