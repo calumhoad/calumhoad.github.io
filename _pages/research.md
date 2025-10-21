@@ -27,5 +27,3 @@ You can find the pre-print of my work examining the relationship between vegetat
     >
   </div>
 </section>
-
-![](/images/figure-1-v3-withFrame.png)
